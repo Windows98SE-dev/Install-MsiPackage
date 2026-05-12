@@ -53,3 +53,5 @@ function Install-MsiPackage
         Write-Error "The specified file does not exist."
     }
 }
+
+Install-MsiPackage
